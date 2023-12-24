@@ -9,21 +9,21 @@ Provides a lightweight logging implementation for Swift!
 
 
 ## Usage
-**Add dependencies** <br/><br/>
+**[STEP 1] Add dependencies** <br/><br/>
 Add this repository's link to Package Dependencies
 ```bash
 https://github.com/JYPjoy/Log
 ```
 <br/>
 
-**Import packages**
+**[STEP 2] Import packages**
 ```swift
 import Log
 ```
 
 <br/>
 
-**Basic Usages**
+**[STEP 3] Basic Usages**
 ```swift
 Log.t("This is a Trace message.")
 Log.d("This is a Debug message.")
