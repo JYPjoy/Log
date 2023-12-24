@@ -54,4 +54,5 @@ The order is:
 <br/>
 
 ## License
-This library is licensed under MIT license. Full license text is available in LICENSE. | Copyright (c) 2023 JiYoung Park
+This library is licensed under MIT license. Full license text is available in LICENSE. <br/> 
+Copyright (c) 2023 JiYoung Park
