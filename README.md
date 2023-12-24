@@ -37,7 +37,7 @@ Log.c("This is a Critical error.")
 
 **Logging Levels**
 
-- You can specify the level of output on initialization. You will see output of that level, and all levels below that. Ordered from Least to most Severe.
+- You can specify the level of output on initialization. You will see output of that level, and all levels below that. <br/>Ordered from **Least** to **most Severe**.
 - Reference: [Swift Official Log Guidelines](https://www.swift.org/server/guides/libraries/log-levels.html)
 
 <br/>
@@ -54,4 +54,4 @@ The order is:
 <br/>
 
 ## License
-This library is licensed under ~~. Full license text is available in LICENSE.
+This library is licensed under MIT license. Full license text is available in LICENSE. | Copyright (c) 2023 JiYoung Park
