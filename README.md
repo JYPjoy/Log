@@ -38,7 +38,7 @@ Log.c("This is a Critical error.")
 **Logging Levels**
 
 - You can specify the level of output on initialization. You will see output of that level, and all levels below that. <br/>Ordered from **Least** to **most Severe**.
-- Reference: [Swift Official Log Guidelines](https://www.swift.org/server/guides/libraries/log-levels.html)
+
 
 <br/>
 
@@ -50,6 +50,11 @@ The order is:
   5. `w(WARNING)`: Appropriate for messages that are not error conditions, but more severe than .notice
   6. `e(ERROR)`: Appropriate for error conditions.
   7. `c(CRITICAL)`: Appropriate for critical error conditions that usually require immediate attention.
+
+<br/>
+
+## Reference
+[Swift Official Log Guidelines](https://www.swift.org/server/guides/libraries/log-levels.html)
 
 <br/>
 
